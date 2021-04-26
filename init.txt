@@ -1,0 +1,17 @@
+[lostark_fishing]
+width = 200
+height = 200
+wait_time = 5
+mark_image_name = LA_exclamation_mark.png
+detect_cnt = 120
+
+[fishingpoint_NotosIsland]
+point1 = (1410, 840)
+point2 = (1123, 883)
+point3 = (840, 885)
+
+[fishingpoint_Sleeping Song Island]
+point1 = (1052, 269)
+point2 = (837, 306)
+point3 = (941, 298)
+
